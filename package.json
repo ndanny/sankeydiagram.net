@@ -31,7 +31,7 @@
     "graphlib": "^2.1.8",
     "parcel": "2.7.0",
     "parcel-reporter-static-files-copy": "^1.5.2",
-    "sharp": "^0.29.1"
+    "sharp": "^0.33.2"
   },
   "dependencies": {
     "bulma": "^0.9.4",
